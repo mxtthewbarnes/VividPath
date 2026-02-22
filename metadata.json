@@ -1,0 +1,5 @@
+{
+  "name": "VividPath: AI Travel Architect",
+  "description": "Craft bespoke, multi-day travel itineraries with vivid narrations and geographically coherent paths.",
+  "requestFramePermissions": ["geolocation"]
+}
