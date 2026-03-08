@@ -13,17 +13,6 @@
 
 ---
 
-## Tech Stack
-
-| Layer | Technology |
-|-------|-----------|
-| Frontend | React, TypeScript |
-| AI / LLM | Google Gemini API (`gemini-2.0-flash`) |
-| Build tool | Vite |
-| Styling | CSS |
-
----
-
 ## Getting Started
 
 **Prerequisites:** Node.js (v18+)
@@ -45,20 +34,6 @@ npm run dev
 ```
 
 Then open [http://localhost:5173](http://localhost:5173) in your browser.
-
----
-
-## Project Structure
-
-```
-VividPath/
-├── src/
-│   └── ...          # React components and app logic
-├── index.html
-├── vite.config.ts
-├── tsconfig.json
-└── .env.example     # Environment variable template
-```
 
 ---
 
