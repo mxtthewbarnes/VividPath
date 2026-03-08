@@ -1,4 +1,4 @@
-# VividPath 🗺️
+# VividPath 
 
 **VividPath** is an AI-powered trip planning web app built during an MLH (Major League Hacking) hackathon. Users describe where they want to go and what kind of experience they're looking for, and VividPath generates a personalized travel itinerary using Google's Gemini API.
 
