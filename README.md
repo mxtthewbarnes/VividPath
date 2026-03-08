@@ -8,7 +8,7 @@
 - Clean, responsive UI built with React + TypeScript
 - Fast local dev experience powered by Vite
 
-## Getting Started
+## How to build and run 
 
 **Prerequisites:** Node.js (v18+)
 
